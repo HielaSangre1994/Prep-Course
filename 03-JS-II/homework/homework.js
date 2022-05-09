@@ -12,7 +12,6 @@ function obtenerMayor(x, y) {
     return y;
   } else if (x === y){
     return x;
-    return y;
   } 
 }
 
